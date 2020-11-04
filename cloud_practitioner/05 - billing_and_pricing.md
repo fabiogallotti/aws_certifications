@@ -9,6 +9,7 @@ Completely free:
 * **AWS Cost Explorer**
 
 Free, but they can provision AWS services that have a cost:
+
 * **Auto Scaling**
 * **CloudFormation**
 * **Elastic Beanstalk**
@@ -54,6 +55,7 @@ Advises you on **security**, **saving money**, **performance**, **service limits
 *Business* and *Enterprise* = **All** Trusted Advisor Checks
 
 There are 5 different categories where it can advise you on:
+
 1) **Cost Optimization**, checks: Idle Load Balancers, Unassociated Elastic IP addresses
 2) **Performance**, checks: High Utilization of EC2 instances
 3) **Security**, checks: MFA on Root Account, IAM Access Key Rotation
@@ -126,6 +128,7 @@ Set of prebuilt templates by AWS and AWS partners to help you deploy popular sta
 Reduce hundreds of manual procedures into just few steps.
 
 A **Quick Start** is composed of 3 parts:
+
 1) a reference architecture for deployment
 2) AWS CloudFormation templates that automate and configure the deployment
 3) A deployment guide explaining the architecture and implementation in details.

@@ -26,4 +26,3 @@ Why go with a Cloud Provider over an On-Premises?
 - **Cloud** = fully cloud. (Dropbox)
 - **Hybrid** = using both Cloud and On-Premise. (Banks)
 - **On-Premise** = deploying resources on-premises, using virtualisation and resources management tools. (Government)
-
