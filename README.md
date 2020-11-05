@@ -3,3 +3,4 @@
 My personal notes for preparing the following AWS certifications:
 
 - Cloud Practitioner
+- Developer
